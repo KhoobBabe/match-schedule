@@ -5,11 +5,11 @@ The match scheduler randomly selects the schedules for the teams given by the us
 #  **How It Works**
 
 Gives a menu giving the following choices:
-1.) Enter team details  
-2.) Generate Match schedule
-3.) Show team details
-4.) Enter result of a round
-5.) Exit Program
+1. Enter team details  
+2. Generate Match schedule
+3. Show team details
+4. Enter result of a round
+5. Exit Program
  
 # **Procedure**
 
