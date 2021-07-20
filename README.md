@@ -21,4 +21,4 @@ Gives a menu giving the following choices:
 -> The one remaining team is declared the winner
 
 
-https://twitter.com/KhoobBabe
+twitter.com/KhoobBabe
