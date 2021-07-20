@@ -19,3 +19,6 @@ Gives a menu giving the following choices:
 -> The program generates another schedule
 -> This goes on until there is one team left
 -> The one remaining team is declared the winner
+
+
+https://twitter.com/KhoobBabe
